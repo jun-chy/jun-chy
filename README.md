@@ -17,7 +17,7 @@
 
 <div align="justify">
 
-Embedded software engineer with hands-on experience in full-stack embedded development — from bare-metal sensor drivers and RTOS-based firmware to Qt5 HMI dashboards and Python-based computer vision applications. Passionate about writing clean, well-documented code and sharing knowledge through technical articles.
+Embedded software engineer with hands-on experience in full-stack embedded development — from bare-metal sensor drivers and RTOS-based firmware to Qt5 HMI dashboards, OpenHarmony vision systems, and AI-driven automation tooling. Passionate about writing clean, well-documented code and sharing knowledge through technical articles. Currently open to embedded / IoT / edge-AI engineering opportunities.
 
 </div>
 
@@ -42,12 +42,36 @@ Embedded software engineer with hands-on experience in full-stack embedded devel
 ## Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/6_Projects-378ADD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/9_Projects-378ADD?style=flat-square"/>
   <img src="https://img.shields.io/badge/13K%2B_Lines_of_Code-1D9E75?style=flat-square"/>
   <img src="https://img.shields.io/badge/5_Stars-BA7517?style=flat-square"/>
 </div>
 
-### Embedded Systems
+### 🚀 Recent Work
+
+<div align="center">
+
+<a href="https://github.com/jun-chy/lakejob-edge-extension">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=lakejob-edge-extension&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/jun-chy/ELDetect2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=ELDetect2&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/jun-chy/esp32-gimbal-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=esp32-gimbal-tracker&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/jun-chy/ESP8266-Smart-PTZ-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=ESP8266-Smart-PTZ-Tracker&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+
+</div>
+
+### 🔩 Embedded Systems
 
 <div align="center">
 
@@ -61,7 +85,21 @@ Embedded software engineer with hands-on experience in full-stack embedded devel
 
 </div>
 
-### Desktop & Vision
+### 🎯 Vision-Driven Embedded
+
+<div align="center">
+
+<a href="https://github.com/jun-chy/esp32-gimbal-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=esp32-gimbal-tracker&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/jun-chy/ESP8266-Smart-PTZ-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=ESP8266-Smart-PTZ-Tracker&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+
+</div>
+
+### 🖥️ Desktop & Computer Vision
 
 <div align="center">
 
@@ -73,9 +111,25 @@ Embedded software engineer with hands-on experience in full-stack embedded devel
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=OpenCV-Toolkit&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=3776AB&description_lines_count=2" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/jun-chy/ELDetect2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=ELDetect2&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+
 </div>
 
-### Technical Writing
+### 🌐 Web & Automation
+
+<div align="center">
+
+<a href="https://github.com/jun-chy/lakejob-edge-extension">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jun-chy&repo=lakejob-edge-extension&hide_border=true&bg_color=ffffff&title_color=2C2C2A&text_color=444441&icon_color=378ADD&description_lines_count=2" />
+</a>
+
+</div>
+
+### ✍️ Technical Writing
 
 <div align="center">
 
@@ -126,6 +180,8 @@ Embedded software engineer with hands-on experience in full-stack embedded devel
 | **Communication** | UART, I2C, SPI, DMA transfer |
 | **GUI Framework** | Qt5 — Signals/Slots, Model/View, Custom Widgets, QSS |
 | **Computer Vision** | OpenCV — Detection, Tracking, Image Processing, DNN |
+| **Edge AI** | OpenHarmony, YOLO, HUSKYLENS |
+| **Browser Ext** | Chrome/Edge MV3, Service Worker, Content Script |
 | **Build System** | CMake, Make, Keil uVision |
 | **Version Control** | Git, GitHub |
 
